@@ -1,6 +1,6 @@
-import Avatar from '../components/Avatar'
-import Card from '../components/Card'
-import Cards from '../components/Cards'
+import Avatar from './Avatar'
+import Card from './Card'
+import Cards from './Cards'
 
 
 function Home() {

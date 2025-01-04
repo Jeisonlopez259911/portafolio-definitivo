@@ -1,15 +1,15 @@
-import './App.css'
-
+import Contacto from './components/Contacto'
 import Footer from './components/Footer'
 import Header from './components/Header'
-import AppRoutes from './routes'
+import Home from './components/Home'
 
 function App() {
 
   return (
     <>
       <Header />
-      <AppRoutes/>
+      <Home/>
+      <Contacto/>
       <Footer />
     </>
   )
