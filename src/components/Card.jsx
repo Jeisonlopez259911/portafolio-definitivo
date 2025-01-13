@@ -14,12 +14,10 @@ function Card() {
                 <div className="p-6">
                     <h5
                         className="mb-2 text-xl font-medium leading-tight">
-                        Card title
+                        Sobre mi
                     </h5>
                     <p className="mb-4 text-base">
-                        This is a wider card with supporting text below as a natural
-                        lead-in to additional content. This content is a little bit
-                        longer.
+                        Mi nombre es Jeison Stiven Lopez Castro soy un desarrollador/progrmador de software se utilizar Python, JavaScript, HTML, CSS, React, Django Git, GitHub y se trabajar en metodologia agil SCRUM, tambien soy Tecnico en sitemas y Tecnologo en telecumunicaciones.
                     </p>
                     <p className="text-base text-surface/75 dark:text-neutral-300">
                         <small
