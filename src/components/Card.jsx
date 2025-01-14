@@ -19,10 +19,6 @@ function Card() {
                     <p className="mb-4 text-base">
                         Mi nombre es Jeison Stiven Lopez Castro soy un desarrollador/progrmador de software se utilizar Python, JavaScript, HTML, CSS, React, Django Git, GitHub y se trabajar en metodologia agil SCRUM, tambien soy Tecnico en sitemas y Tecnologo en telecumunicaciones.
                     </p>
-                    <p className="text-base text-surface/75 dark:text-neutral-300">
-                        <small
-                        >Last updated 3 mins ago</small>
-                    </p>
                 </div>
             </div>
         </div>
