@@ -96,7 +96,7 @@ function Header() {
 
         <div
           className="relative h-[350px] overflow-hidden bg-cover bg-[50%] bg-no-repeat">
-          <img className="h-[350px] overflow-hidden bg-cover bg-[100%]" src={imagenNavMenu} alt="" srcset="" />
+          <img className="h-full w-full overflow-hidden bg-cover bg-[100%]" src={imagenNavMenu} alt="" srcset="" />
           <div
             className="absolute bottom-0 left-0 right-0 top-0 h-full w-full overflow-hidden bg-black/60 bg-fixed">
             <div className="flex h-full items-center justify-center">
