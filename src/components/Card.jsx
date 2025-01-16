@@ -7,7 +7,7 @@ function Card() {
                 className="block rounded-lg bg-white shadow-secondary-1 dark:bg-surface-dark dark:text-white text-surface">
                 <div className="relative overflow-hidden bg-cover bg-no-repeat">
                     <img
-                        className="rounded-t-lg"
+                        className="h-full w-full rounded-t-lg"
                         src={miFoto1}
                         alt="" />
                 </div>
