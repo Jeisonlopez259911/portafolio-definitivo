@@ -51,33 +51,33 @@ function Header() {
                 data-twe-navbar-nav-ref>
                 <li className="mb-4 lg:mb-0 lg:pe-2" data-twe-nav-item-ref>
                   <NavLink
-                    className="block text-black/60 transition duration-200 hover:text-black/80 hover:ease-in-out focus:text-black/80 active:text-black/80 motion-reduce:transition-none dark:text-white/60 dark:hover:text-white/80 dark:focus:text-white/80 dark:active:text-white/80 lg:px-2"
+                    className="flex justify-center text-black/60 transition duration-200 hover:text-black/80 hover:ease-in-out focus:text-black/80 active:text-black/80 motion-reduce:transition-none dark:text-white/60 dark:hover:text-white/80 dark:focus:text-white/80 dark:active:text-white/80 lg:px-2"
                     to={HojaDeVida}
                     data-twe-nav-link-ref
                     data-twe-ripple-init
                     data-twe-ripple-color="light"
                     target="_blank"
-                  ><PiReadCvLogoLight />Hoja de vida</NavLink>
+                  ><PiReadCvLogoLight /> Hoja de vida</NavLink>
                 </li>
                 <li className="mb-4 lg:mb-0 lg:pe-2" data-twe-nav-item-ref>
                   <NavLink
-                    className="block text-black/60 transition duration-200 hover:text-black/80 hover:ease-in-out focus:text-black/80 active:text-black/80 motion-reduce:transition-none dark:text-white/60 dark:hover:text-white/80 dark:focus:text-white/80 dark:active:text-white/80 lg:px-2"
+                    className="flex justify-center text-black/60 transition duration-200 hover:text-black/80 hover:ease-in-out focus:text-black/80 active:text-black/80 motion-reduce:transition-none dark:text-white/60 dark:hover:text-white/80 dark:focus:text-white/80 dark:active:text-white/80 lg:px-2"
                     to="https://github.com/Jeisonlopez259911"
                     data-twe-nav-link-ref
                     data-twe-ripple-init
                     data-twe-ripple-color="light"
                     target="_blank"
-                  > <BsGithub/>GitHub</NavLink>
+                  > <BsGithub/> GitHub</NavLink>
                 </li>
                 <li className="mb-2 lg:mb-0 lg:pe-2" data-twe-nav-item-ref>
                   <NavLink
-                    className="block text-black/60 transition duration-200 hover:text-black/80 hover:ease-in-out focus:text-black/80 active:text-black/80 motion-reduce:transition-none dark:text-white/60 dark:hover:text-white/80 dark:focus:text-white/80 dark:active:text-white/80 lg:px-2"
+                    className="flex justify-center text-black/60 transition duration-200 hover:text-black/80 hover:ease-in-out focus:text-black/80 active:text-black/80 motion-reduce:transition-none dark:text-white/60 dark:hover:text-white/80 dark:focus:text-white/80 dark:active:text-white/80 lg:px-2"
                     to="https://www.linkedin.com/in/jeison-stiven-lopez-castro-03a535256/"
                     data-twe-nav-link-ref
                     data-twe-ripple-init
                     data-twe-ripple-color="light"
                     target="_blank"
-                  ><LiaLinkedin/>Linkedin</NavLink>
+                  ><LiaLinkedin/> Linkedin</NavLink>
                 </li>
               </ul>
             </div>
