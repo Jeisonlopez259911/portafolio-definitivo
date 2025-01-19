@@ -1,6 +1,5 @@
 import { CiMenuBurger } from "react-icons/ci";
 import { PiReadCvLogoLight } from "react-icons/pi";
-import { IoHome } from "react-icons/io5";
 import { useEffect } from "react";
 import {
   Collapse,
